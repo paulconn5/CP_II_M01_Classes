@@ -1,0 +1,2 @@
+Shampoo,Cleans your hair, 000001, 10.25
+Conditioner,Softens your hair, 000002, 9.5
